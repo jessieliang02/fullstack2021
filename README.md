@@ -1,2 +1,2 @@
-# fullstack2021
+# react_project
 personal blog project
