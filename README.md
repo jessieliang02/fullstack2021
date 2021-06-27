@@ -1,2 +1,2 @@
 # react_project
-personal blog project
+meme generator
